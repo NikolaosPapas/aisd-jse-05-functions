@@ -1,5 +1,5 @@
 
-# JavaScript Basics: Functions and Scope
+# JavaScript Basics: Function Foundations
 ![Screenshot of the finished webpage](assets/images/complete.png)
 
 ## Description 📄
