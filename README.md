@@ -12,7 +12,7 @@ IntroToFunctions/
 └── index.js
 ```
 
----
+
 
 # Instructions ✅
 
@@ -22,7 +22,7 @@ You will begin by setting up your project structure.
 - [ ] Create a folder named `IntroToFunctions` to store your project files.
 - [ ] Inside the `IntroToFunctions` folder, create a file named `index.js`. This file will contain all your JavaScript code.
 
----
+
 
 ## 2. **Create a Function Declaration**
 You will start by creating a simple function declaration that greets the user.
@@ -50,7 +50,6 @@ Hello, User!
   - `greetUser();`: This calls the function, executing the code inside it.
 - Function declarations in JavaScript are processed before any code is executed, which allows you to call the function even if it appears later in the code.
 
----
 
 ## 3. **Create an Arrow Function**
 Next, you will rewrite the same function using arrow function syntax.
@@ -77,7 +76,6 @@ Hello, User!
   - `greetUserArrow();`: This calls the arrow function.
 - **Key Difference**: Arrow functions provide a shorter and simpler way to write functions. They’re useful when you want to quickly create a function without needing to write as much code as with a function declaration. In future lessons, you’ll see how arrow functions can be particularly helpful when working with something called "callbacks."
 
----
 
 ## 4. **Loop Over an Array with a Function**
 You will now create a function that loops over an array of names and greets each name using a standard `for` loop.
@@ -109,7 +107,6 @@ Hello, Charlie!
   - `console.log("Hello, " + names[i] + "!");`: For each iteration, this prints a greeting with the current name from the array.
 - Function declarations like `greetEveryone` can be called from anywhere in the code, even if they are defined later. They work efficiently for tasks like looping over arrays.
 
----
 
 ## 5. **Rewrite the Loop with an Arrow Function**
 Next, you will create an arrow function that does the same task using a `for` loop.
@@ -140,7 +137,6 @@ Hello, Charlie!
   - `for (let i = 0; i < names.length; i++) {}`: This loop iterates over the `names` array in the same way as the previous example, greeting each name in the array.
   - `console.log("Hello, " + names[i] + "!");`: Inside the loop, this prints a message greeting each name from the array.
 
----
 
 ## 6. **Practice: Create Your Own Functions**
 Now it's your turn to practice. Create two functions of your own—one using a function declaration and another using an arrow function. You can have these functions perform simple tasks like printing a message or manipulating an array.
@@ -153,12 +149,12 @@ For each idea, be sure to write one function as a function declaration and the o
 
 This practice will help you get comfortable with both types of functions and how to use loops to handle arrays.
 
----
+
 
 ## 7. **Commit and Push to GitHub**
 Once you're done, make sure to commit your work to your local Git repository and push it to GitHub.
 
----
+##
 
 # Conclusion 📄
 
@@ -171,7 +167,7 @@ In this project, you learned how to write JavaScript functions using both functi
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-conditional-statements/tree/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-05-functions/tree/solution) (link not shown).
 
 
 ---
