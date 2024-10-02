@@ -12,8 +12,6 @@ IntroToFunctions/
 └── index.js
 ```
 
-
-
 # Instructions ✅
 
 ## 1. **Create the Project Folder and File**
