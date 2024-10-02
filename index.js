@@ -28,3 +28,12 @@ const greetEveryoneArrow = () => {
   }
 }
 greetEveryoneArrow(); // Expected output: "Hello, Alice!", "Hello, Bob!", "Hello, Charlie!"
+
+
+
+
+
+
+
+
+
