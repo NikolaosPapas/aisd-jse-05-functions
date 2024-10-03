@@ -3,7 +3,7 @@
 ![Screenshot of the finished webpage](assets/images/complete.png)
 
 ## Description 📄
-In this project, you will explore the fundamentals of function declarations and arrow functions in JavaScript. You'll learn how to write functions, understand the difference between these two function types, and how they work in different contexts. Through practical examples, you’ll also use functions to loop over arrays and perform tasks. This hands-on activity will deepen your understanding of how functions help in automating repetitive tasks and organizing code effectively.
+In this lab, you will explore the fundamentals of function declarations and arrow functions in JavaScript. You'll learn how to write functions, understand the difference between these two function types, and how they work in different contexts. Through practical examples, you’ll also use functions to loop over arrays and perform tasks. This hands-on activity will deepen your understanding of how functions help in automating repetitive tasks and organizing code effectively.
 
 ## Expected Project Structure 🏗️
 Your project will have the following structure:
